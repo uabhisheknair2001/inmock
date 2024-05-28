@@ -1,0 +1,17 @@
+{
+  "name": "inmock",
+  "version": "1.0.0",
+  "description": "A tool for generating realistic mock data for testing purposes, with support for various data types and customizable schemas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mock",
+    "data",
+    "generator",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC"
+}
